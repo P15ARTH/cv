@@ -1,2 +1,2 @@
 # cv
-My first Project is my resume using onlu html only 
+My first Project is my resume using html only 
